@@ -15,21 +15,21 @@ Read files, and database set-up:
 ```{r}
 #database
 
-base <- "path"
+base <- "~/EXP_MPP_VIA_2016.csv"
 exp <- read.csv(base, sep = ";")
 
 #product codes
-product.table <- read.csv("path", sep = ",")
+product.table <- read.csv("~/PRODUTOS.csv", sep = ",")
 product.table <- product.table[,c(1,3)]
 names(product.table) <- c("CO_NCM","NO_NCM_ING")
 
 #country codes
-country.table <- read.csv("path", sep = ",")
+country.table <- read.csv("~/PAISES.csv", sep = ",")
 country.table <- country.table[,c(1,3)]
 names(country.table) <- c("CO_PAIS","NO_PAIS_ING")
 
 #group codes
-group.table <- read.csv("path", sep = ",")
+group.table <- read.csv("~/GRUPOS.csv", sep = ",")
 group.table <- group.table[,c(2,3,4,5)]
 
 #Merged tables
