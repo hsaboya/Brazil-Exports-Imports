@@ -1,0 +1,272 @@
+﻿CO_PAIS,NO_PAIS_POR,NO_PAIS_ING,NO_PAIS_ESP,NO_PAIS_FRA,CO_PAIS_ISON3,CO_PAIS_ISOA3
+000,Não Definido,Not defined,No definido,Non défini,898,ZZZ
+013,Afeganistão,Afghanistan,Afganistan,Afghanistan,004,AFG
+015,"Aland, Ilhas",Aland Islands,"Alans, Islas",Îles Aland,248,ALA
+017,Albânia,Albania,Albania,Albanie,008,ALB
+020,"Alboran-Perejil, Ilhas","Alboran-Perejil, Islands","Alboran-Perejil, Islas",Îles Alboran-Perejil,724,ESP
+023,Alemanha,Germany,Alemania,Allemagne,276,DEU
+025,Alemanha Oriental,East Germany,Alemania del Este,Allemagne de l'Est,278,DEU
+031,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,854,BFA
+037,Andorra,Andorra,Andorra,Andorre,020,AND
+040,Angola,Angola,Angola,Angola,024,AGO
+041,Anguilla,Anguilla,Anguilla,Anguilla,660,AIA
+043,Antígua e Barbuda,Antigua and Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,028,ATG
+047,Antilhas Holandesas,Netherlands Antilles,Antillas Holandesas,Antilles,530,ANT
+053,Arábia Saudita,Saudi Arabia,Arabia Saudita,Arabie Saoudite,682,SAU
+059,Argélia,Algeria,Argelia,Algérie,012,DZA
+063,Argentina,Argentina,Argentina,Argentine,032,ARG
+064,Armênia,Armenia,Armenia,Arménie,051,ARM
+065,Aruba,Aruba,Aruba,Aruba,533,ABW
+069,Austrália,Australia,Australia,Australie,036,AUS
+072,Áustria,Austria,Austria,Autriche,040,AUT
+073,Azerbaijão,Azerbaijan,Acerbaiyan,Azerbaidjan,031,AZE
+077,Bahamas,Bahamas,Bahamas,Bahamas,044,BHS
+080,Barein,Bahrein,Bahrein,Bahrein,048,BHR
+081,Bangladesh,Bangladesh,Bangladesh,Bangladesh,050,BGD
+083,Barbados,Barbados,Barbados,Barbade,052,BRB
+085,Belarus,Belarus,Belarús,Biélorussie,112,BLR
+087,Bélgica,Belgium,Bélgica,Belgique,056,BEL
+088,Belize,Belize,Belice,Belize,084,BLZ
+090,Bermudas,Bermuda,Bermuda,Bermudes,060,BMU
+093,Mianmar,Myanmar,Myanmar,Myanmar,104,MMR
+097,Bolívia,Bolivia,Bolivia,Bolivie,068,BOL
+098,Bósnia-Herzegovina,Bosnia and Herzegovina,Bosnia y Herzegovina,Bosnie-Herzégovine,070,BIH
+099,"Bonaire, Saint Eustatius e Saba","Bonaire, Saint Eustatius and Saba","Bonaire, Saint Eustatius y Saba","Bonaire, Saint Eustatius et Saba",537,BES
+100,Internação na Zona Franca de Manaus,Internment in the Manaus Free Trade Zone,Internamiento de la Zona Franca de Manaus,Internationalisation dans la Zona Franca de Manaus,076,BRA
+101,Botsuana,Botswana,Botswana,Botswana,072,BWA
+102,"Bouvet, Ilha",Bouvet Island,"Bouvet, Isla",île Bouvet,074,BVT
+105,Brasil,Brazil,Brasil,Brésil,076,BRA
+108,Brunei,Brunei,Brunei,Brunei,096,BRN
+111,Bulgária,Bulgaria,Bulgaria,Bulgarie,100,BGR
+115,Burundi,Burundi,Burundi,Burundi,108,BDI
+119,Butão,Bhutan,Bhután,Bhoutan,064,BTN
+127,Cabo Verde,Cape Verde,Cabo Verde,Cap-Vert,132,CPV
+137,"Cayman, Ilhas",Cayman Islands,"Caimán, Islas",Îles Caimans,136,CYM
+141,Camboja,Cambodia,Camboya,Cambodge,116,KHM
+145,Camarões,Cameroon,Camerún,Cameroun,120,CMR
+149,Canadá,Canada,Canadá,Canada,124,CAN
+150,"Canal, Ilhas do (Guernsey)",Guernsey,Guernsey,Îles Anglo-Normandes (Guernsey),831,GGY
+151,"Canárias, Ilhas","Canary, Islands","Canarias, Islas",Îles Canaries,724,ESP
+152,"Canal, Ilhas do (Jersey)",Jersey,Jersey,Îles Anglo-Normandes,826,GBR
+153,Cazaquistão,Kazakhstan,Kazakhstán,Kazakhstan,398,KAZ
+154,Catar,Qatar,Qatar,Qatar,634,QAT
+158,Chile,Chile,Chile,Chili,152,CHL
+160,China,China,China,Chine,156,CHN
+161,Taiwan (Formosa),Taiwan,Taiwán,Taiwan,158,TWN
+163,Chipre,Cyprus,Chipre,Chypre,196,CYP
+165,"Cocos (Keeling), Ilhas",Cocos (Keeling) Islands,"Cocos (Keeling), Islas",Cocos (Kelling),166,CCK
+169,Colômbia,Colombia,Colombia,Colombie,170,COL
+173,Comores,Comoros,Comoras,Comores,174,COM
+177,Congo,Congo,Congo,Congo,178,COG
+183,"Cook, Ilhas",Cook Islands,"Cook, Islas",Îles Cook,184,COK
+187,Coreia do Norte,North Korea,Corea (Norte),Corée du Nord,408,PRK
+190,Coreia do Sul,South Korea,Corea (Sur),Corée du Sud,410,KOR
+193,Costa do Marfim,Cote D'Ivore,Costa de Marfil,Côte-d'Ivoire,384,CIV
+195,Croácia,Croatia,Croacia,Croatie,191,HRV
+196,Costa Rica,Costa Rica,Costa Rica,Costa Rica,188,CRI
+198,Coveite (Kuweit),Kuwait,Kuwait,Koweït,414,KWT
+199,Cuba,Cuba,Cuba,Cuba,192,CUB
+200,Curaçao,Curaçao,Curazao,Curaçao,531,CUW
+229,Benin,Benin,Benin,Bénin,204,BEN
+232,Dinamarca,Denmark,Dinamarca,Danemark,208,DNK
+235,Dominica,Dominica Island,Dominica,Île de la Dominique,212,DMA
+237,Dubai,Dubai,Dubai,Dubaï,784,ARE
+239,Equador,Ecuador,Ecuador,Equateur,218,ECU
+240,Egito,Egypt,Egipto,Égypte,818,EGY
+243,Eritreia,Eritrea,Eritrea,Erythrée,232,ERI
+244,Emirados Árabes Unidos,United Arab Emirates,Emiratos Árabes Unidos,Émirats Arabes Unis,784,ARE
+245,Espanha,Spain,España,Espagne,724,ESP
+246,Eslovênia,Slovenia,Eslovenia,Slovénie,705,SVN
+247,Eslováquia,Slovakia,Eslovaquia,Slovaquie,703,SVK
+249,Estados Unidos,United States,Estados Unidos,États-Unis,840,USA
+251,Estônia,Estonia,Estonia,Estonie,233,EST
+253,Etiópia,Ethiopia,Etiopía,Ethiopie,231,ETH
+255,Falkland (Malvinas),Falkland Islands (Malvinas),"Malvinas (Falkland), Islas",Îles Malvinas (Falkland),238,FLK
+259,"Faroe, Ilhas",Faroe Islands,"Feroé, Islas",Îles Féroé,234,FRO
+267,Filipinas,Philippines,Filipinas,Philippines,608,PHL
+271,Finlândia,Finland,Finlandia,Finlande,246,FIN
+275,França,France,Francia,France,250,FRA
+281,Gabão,Gabon,Gabón,Gabon,266,GAB
+285,Gâmbia,Gambia,Gambia,Gambie,270,GMB
+289,Gana,Ghana,Ghana,Ghana,288,GHA
+291,Geórgia,Georgia,Georgia,Géorgie,268,GEO
+293,Gibraltar,Gibraltar,Gibraltar,Gibraltar,292,GIB
+297,Granada,Grenada,Granada,Grenade,308,GRD
+301,Grécia,Greece,Grecia,Grèce,300,GRC
+305,Groenlândia,Greenland,Groenlandia,Groenland,304,GRL
+309,Guadalupe,Guadeloupe,Guadalupe,Guadalupe,312,GLP
+313,Guam,Guam,Guam,Guam,316,GUM
+317,Guatemala,Guatemala,Guatemala,Guatemala,320,GTM
+325,Guiana Francesa,French Guyana,Guyana Francesa,Guyane Française,254,GUF
+329,Guiné,Guinea,Guinea,Guinée,324,GIN
+331,Guiné Equatorial,Equatorial Guinea,Guinea Ecuatorial,Guinée Équatoriale,226,GNQ
+334,Guiné-Bissau,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,624,GNB
+337,Guiana,Guyana,Guyana,Guyane,328,GUY
+341,Haiti,Haiti,Haiti,Haïti,332,HTI
+345,Honduras,Honduras,Honduras,Honduras,340,HND
+351,Hong Kong,Hong Kong,Hong Kong,Hong Kong,344,HKG
+355,Hungria,Hungary,Hungría,Hongrie,348,HUN
+357,Iêmen,Yemen,Yemen,Yémen,887,YEM
+358,Iêmen Democrático,Democratic Yemen,Yemen Democrático,Yémen Démocratique,720,YMD
+359,Ilha de Man,Isle of Man,Isla de Man,Île de Man,833,IMN
+361,Índia,India,India,Inde,356,IND
+365,Indonésia,Indonesia,Indonesia,Indonésie,360,IDN
+367,Inglaterra,England,Inglaterra,Angleterre,826,GBR
+369,Iraque,Iraq,Irak,Irak,368,IRQ
+372,Irã,Iran,Irán,Iran,364,IRN
+375,Irlanda,Ireland,Irlanda,Irlande,372,IRL
+379,Islândia,Iceland,Islandia,Islande,352,ISL
+383,Israel,Israel,Israel,Israël,376,ISR
+386,Itália,Italy,Italia,Italie,380,ITA
+388,Iugoslávia,Yugoslavia,Yugoslavia,Yougoslavie,891,SCG
+391,Jamaica,Jamaica,Jamaica,Jamaïque,388,JAM
+396,"Johnston, Ilhas",Johnston (Island),Johnston (Isla),Île Johnston,840,UMI
+399,Japão,Japan,Japón,Japon,392,JPN
+403,Jordânia,Jordan,Jordania,Jordan,400,JOR
+411,Kiribati,Kiribati,Kiribati,Kiribati,296,KIR
+420,Laos,Laos,Laos,Laos,418,LAO
+423,"Lebuan, Ilhas",Lebuan,Lebuan,Îles Lebuan,458,MYS
+426,Lesoto,Lesotho,Lesotho,Lesotho,426,LSO
+427,Letônia,Latvia,Letonia,Lettonie,428,LVA
+431,Líbano,Lebanon,Líbano,Liban,422,LBN
+434,Libéria,Liberia,Liberia,Liberia,430,LBR
+438,Líbia,Libya,Libia,Libye,434,LBY
+440,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,438,LIE
+442,Lituânia,Lithuania,Lituania,Lituanie,440,LTU
+445,Luxemburgo,Luxembourg,Luxemburgo,Luxembourg,442,LUX
+447,Macau,Macao,Macao,Macao,446,MAC
+449,Macedônia,Macedonia,Macedonia,Macédoine,807,MKD
+450,Madagascar,Madagascar,Madagascar,Madagascar,450,MDG
+452,"Madeira, Ilha da",Madeira,Madeira,Madère,620,PRT
+455,Malásia,Malaysia,Malasia,Malaisie,458,MYS
+458,Malavi,Malawi,Malawi,Malawi,454,MWI
+461,Maldivas,Maldives,Maldivas,Maldives,462,MDV
+464,Mali,Mali,Mali,Mali,466,MLI
+467,Malta,Malta,Malta,Malte,470,MLT
+472,"Marianas do Norte, Ilhas",Northern Marianas,"Marianas Septentrionales, Islas",Îles Mariannes du Nord,580,MNP
+474,Marrocos,Morocco,Marruecos,Maroc,504,MAR
+476,"Marshall, Ilhas",Marshall Islands,Islas Marshall,Îles Marshall,584,MHL
+477,Martinica,Martinique,Martinica,Martinique,474,MTQ
+485,Maurício,Mauritius,Mauricio,Maurice,480,MUS
+488,Mauritânia,Mauritania,Mauritania,Mauritanie,478,MRT
+490,"Midway, Ilhas","Midway, Islands","Midways, Islas",Îles Midway,581,UMI
+493,México,Mexico,México,Mexique,484,MEX
+494,Moldávia,Moldova,"Moldova, República de",Moldovo,498,MDA
+495,Mônaco,Monaco,Mónaco,Monaco,492,MCO
+497,Mongólia,Mongolia,Mongolia,Mongolie,496,MNG
+498,Montenegro,Montenegro,Montenegro,Monténégro,499,MNE
+499,Micronésia,Micronesia,Micronesia,Micronésie,583,FSM
+501,Montserrat,Montserrat,Montserrat,Montserrat,500,MSR
+505,Moçambique,Mozambique,Mozambique,Mozambique,508,MOZ
+507,Namíbia,Namibia,Namibia,Namibie,516,NAM
+508,Nauru,Nauru,Nauru,Nauru,520,NRU
+511,"Christmas (Navidad), Ilha",Christmas Island,"Navidad (Christmas), Isla",Christmas Island (Navidad),162,CXR
+517,Nepal,Nepal,Nepal,Népal,524,NPL
+521,Nicarágua,Nicaragua,Nicaragua,Nicaraguá,558,NIC
+525,Níger,Niger,Níger,Niger,562,NER
+528,Nigéria,Nigeria,Nigeria,Nigeria,566,NGA
+531,Niue,Niue,Niue,Niue,570,NIU
+535,"Norfolk, Ilha",Norfolk Island,"Norfolk, Islas",Île Norfolk,574,NFK
+538,Noruega,Norway,Noruega,Norvège,578,NOR
+542,Nova Caledônia,New Caledonia,Nueva Caledonia,Nouvelle-Calédonie,540,NCL
+545,Papua Nova Guiné,Papua New Guinea,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,598,PNG
+548,Nova Zelândia,New Zealand,Nueva Zelanda,Nouvelle-Zélande,554,NZL
+551,Vanuatu,Vanuatu,Vanuatu,Vanuatu,548,VUT
+556,Omã,Oman,Omán,Oman,512,OMN
+563,"Pacífico, Ilhas do (Administração dos EUA)","Pacific, Islands of (U.S. Administration)","Pacífico, las Islas (EE.UU administración)",Îles du Pacifique (administration américaine),581,UMI
+566,"Pacífico, Ilhas do (EUA)",Pacific Islands (USA),"Pacífico, Islas del (Estados Unidos)",Îles du Pacifique (États-Unis),581,UMI
+569,"Pacífico, Ilhas do (Território Fideicomisso EUA)","Pacifics, Islands of (U.S. trust territory)","Pacífico, las islas (EE.UU. TERRITORIO EN FIDEICOMISO",Îles du Pacifique (territoire sous tutelle USA),581,UMI
+573,Países Baixos (Holanda),Netherlands,Países Bajos,Pays-Bas,528,NLD
+575,Palau,Palau,Palau,Palau,585,PLW
+576,Paquistão,Pakistan,Pakistán,Pakistan,586,PAK
+578,Palestina,Palestine,Palestina,Palestine,275,PSE
+580,Panamá,Panama,Panamá,Panama,591,PAN
+583,"Papua, Território de",Papua territory,Territorio de Papua,Territoire de Papouasie,598,PNG
+586,Paraguai,Paraguay,Paraguay,Paraguay,600,PRY
+589,Peru,Peru,Perú,Paraguay,604,PER
+593,Pitcairn,Pitcairn,Pitcairn,Pitcairn,612,PCN
+599,Polinésia Francesa,French Polynesia,Polinesia Francesa,Polynésie Française,258,PYF
+603,Polônia,Poland,Polonia,Pologne,616,POL
+607,Portugal,Portugal,Portugal,Portugal,620,PRT
+611,Porto Rico,Puerto Rico,Puerto Rico,Puerto Rico,630,PRI
+623,Quênia,Kenya,Kenya,Kenya,404,KEN
+625,Quirguistão,Kyrgyzstan,Kirguistán,Kirghizistan,417,KGZ
+628,Reino Unido,United Kingdom,Reino Unido,Royaume-Uni,826,GBR
+640,República Centro-Africana,Central African Republic,República Centroafricana,République Centrafricaine,140,CAF
+647,República Dominicana,Dominican Republic,República Dominicana,République Dominicaine,214,DOM
+660,Reunião,Reunion,Reunión,Réunion,638,REU
+665,Zimbábue,Zimbabwe,Zimbabwe,Zimbabwe,716,ZWE
+670,Romênia,Romania,Rumania,Roumanie,642,ROU
+675,Ruanda,Rwanda,Ruanda,Rwanda,646,RWA
+676,Rússia,Russia,Rusia,Russie,643,RUS
+677,"Salomão, Ilhas",Solomon Islands,"Salomón, Islas",Îles Salomon,090,SLB
+678,Saint Kitts e Nevis,St. Kitts and Nevis,St. Kitts y Nevis,Saint-Kitts-et-Nevis,659,KNA
+685,Saara Ocidental,Western Sahara,Sahara Occidental,Sahara Occidental,732,ESH
+687,El Salvador,El Salvador,El Salvador,El Salvador,222,SLV
+690,Samoa,Samoa,Samoa,Samoa,882,WSM
+691,Samoa Americana,Americana Samoa,Samoa Americana,Samoa Américaines,016,ASM
+693,São Bartolomeu,Saint Barthelemy,San Bartolomé,Saint Barthélemy,652,BLM
+695,São Cristóvão e Névis,Saint Christopher and Nevis,Saint Kitts y Nevis,Saint-Kitts-et-Nevis_2,659,KNA
+697,San Marino,San Marino,San Marino,San Marino,674,SMR
+699,Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten,534,SXM
+700,São Pedro e Miquelon,Saint Pierre and Miquelon,Saint Pierre y Miquelon,Saint-Pierre-et-Miquelon,666,SPM
+705,São Vicente e Granadinas,Saint Vicent and the Granadines,San Vicente y las Granadinas,Saint-Vincent-et-Grenadines,670,VCT
+710,Santa Helena,Saint Helena,"Santa Helena, Ascención y Tristán de Acuña",Helena,654,SHN
+715,Santa Lúcia,Saint Lucia,Santa Lucia,Santa Lucia,662,LCA
+720,São Tomé e Príncipe,São Tome and Principe,Santo Tomé y Príncipe,Saint Tomé-et-Principe,678,STP
+728,Senegal,Senegal,Senegal,Sénégal,686,SEN
+731,Seicheles,Seychelles,Seychelles,Seychelles,690,SYC
+735,Serra Leoa,Sierra Leone,Sierra Leona,Sierra Leone,694,SLE
+737,Sérvia,Serbia,Serbia,Serbie,688,SRB
+741,Cingapura,Singapore,Singapur,Singapour,702,SGP
+744,Síria,Syria,Siria,Syrie,760,SYR
+748,Somália,Somalia,Somalia,Somalie,706,SOM
+750,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,144,LKA
+754,Suazilândia,Swaziland,Swazilandia,Swaziland,748,SWZ
+756,África do Sul,South Africa,Sudáfrica,Afrique du Sud,710,ZAF
+759,Sudão,Sudan,Sudán,Soudan,736,SDN
+760,Sudão do Sul,South Sudan,Sudán del Sur,Soudan du Sud,728,SSD
+764,Suécia,Sweden,Suecia,Suède,752,SWE
+767,Suíça,Switzerland,Suiza,Suisse,756,CHE
+770,Suriname,Suriname,Suriname,Suriname,740,SUR
+772,Tadjiquistão,Tajikistan,Tayikistán,Tadjikistan,762,TJK
+776,Tailândia,Thailand,Tailandia,Thaïlande,764,THA
+780,Tanzânia,Tanzania,Tanzanía,Tanzanie,834,TZA
+782,Território Britânico do Oceano Índico,British Indian Ocean Territory,Territorio Británico del Océano Indico,Territoire britannique de l'océan Indien,086,IOT
+783,Djibuti,Djibouti,Djibouti,Djibouti,262,DJI
+785,Território da Alta Comissão do Pacífico Ocidental,Territory of the High Commissioner of the Western Pacif,Territorio del Alto Comisionado del Pacífico Occidental,Territoire du Haut Commissariat dans le Pacifique occid,898,ZZZ
+786,Território Antártico Britânico,British Antarctic Territory,Territorio Antártico Británico,Territoire Antarctique Britannique,826,GBR
+788,Chade,Chad,Chad,Tchad,148,TCD
+790,Tchecoslováquia,Czechoslovakia,Checoslovaquia,Tchécoslovaquie,200,CSK
+791,"Tcheca, República",Czech Republic,República Checa,République Tchèque,203,CZE
+795,Timor Leste,East Timor,Timor Leste,Timor Oriental,626,TLS
+800,Togo,Togo,Togo,Togo,768,TGO
+805,Toquelau,Tokelau,Tokelau,Tokelau,772,TKL
+810,Tonga,Tonga,Tonga,Tonga,776,TON
+815,Trinidad e Tobago,Trinidad and Tobago,Trinidad y Tobago,Trinité-et-Tobago,780,TTO
+820,Tunísia,Tunisia,Túnez,Tunisie,788,TUN
+823,"Turcas e Caicos, Ilhas","Turks and Caicos, Islands","Turcas y Caicos, Islas",Turks et Caicos,796,TCA
+824,Turcomenistão,Turkmenistan,Turkmenistán,Turkménistan,795,TKM
+827,Turquia,Turkey,Turquía,Turquie,792,TUR
+828,Tuvalu,Tuvalu,Tuvalu,Tuvalu,798,TUV
+831,Ucrânia,Ukraine,Ucrania,Ukraine,804,UKR
+833,Uganda,Uganda,Uganda,Ouganda,800,UGA
+840,União das Repúblicas Socialistas Soviéticas,Union of Soviet Socialist Republics,Unión de Repúblicas Socialistas Soviéticas,Union des Républiques Socialistes Soviétiques,898,ZZZ
+845,Uruguai,Uruguay,Uruguay,Uruguay,858,URY
+847,Uzbequistão,Uzbekistan,Uzbekistán,Ouzbékistan,860,UZB
+848,Vaticano,Vatican City,Santa Sede (Vaticano),Vatican,336,VAT
+850,Venezuela,Venezuela,Venezuela,Venezuela,862,VEN
+858,Vietnã,Vietnam,Viet Nam,Vietnam,704,VNM
+863,"Virgens, Ilhas (Britânicas)",Virgin Islands (UK),"Vírgenes Británicas, Islas",îles Vierges (Britanniques),092,VGB
+866,"Virgens, Ilhas (Americanas)",Virgin Islands (USA),"Vírgenes de los Estados Unidos, Islas",îles Vierges (US),850,VIR
+870,Fiji,Fiji,Fiji,Fidji,242,FJI
+873,"Wake, Ilha",Wake Island,Isla Wake,L'île de Wake,840,USA
+875,"Wallis e Futuna, Ilhas",Wallis and Futuna,Wallis y Futuna,Wallis-et-Futuna,876,WLF
+888,"Congo, República Democrática",Democratic Republic of the Congo,República Democrática del Congo,République démocratique du Congo,180,COD
+890,Zâmbia,Zambia,Zambia,Zambie,894,ZMB
+895,Zona do Canal do Panamá,Panama Canal Zone,Zona del Canal de Panamá,Panama Canal Zone,592,PCZ
+990,Provisão de Navios e Aeronaves,Planes and ships provisions,Disposiciones para buques y aviones,Fourniture de navires et aéronefs,898,ZZZ
+994,A Designar,To define,A designar,Un design,898,ZZZ
+995,Bancos Centrais,Central Banks,Bancos Centrales,Banques centrales,898,ZZZ
+997,Organizações Internacionais,International Organizations,Organizaciones Internacionales,Organisations Internationales,898,ZZZ
+999,Não Declarados,Not declared,No declarados,Non déclarée,898,ZZZ
